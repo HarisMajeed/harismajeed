@@ -18,7 +18,7 @@ Welcome to my GitHub! I'm a passionate **Full-stack JavaScript developer** with 
 ### 👯 Open to Collaboration
 - Open-source projects in **NestJS, React, and fintech**.
 - Web3 and **cryptocurrency payment solutions**.
-- AI-based **content automation and video generation**.
+- AI-based **content automation**.
 
 ### 💬 Ask Me About
 - Full-stack JavaScript development
