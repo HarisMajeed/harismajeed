@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi there! 👋 I'm Haris Majeed
 
-<!--
-**HarisMajeed/harismajeed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Full-Stack JavaScript Developer | MERN, NestJS, AWS
 
-Here are some ideas to get you started:
+Welcome to my GitHub! I'm a passionate **Full-stack JavaScript developer** with expertise in **Node.js, NestJS, React.js, Angular, databases, and AWS**. I love building scalable applications and working on innovative projects in web development, fintech, and blockchain.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 What I'm Working On
+- Developing **hybrid API + WebSockets** solutions for real-time cryptocurrency deposit detection.
+- Implementing **Stripe payments** in NestJS for multi-currency transactions.
+- Building AI-driven content using OpenAI APIs for telegram and twitter bots for posting content
+- Teaching JavaScript and mentoring students on **HTML, CSS, and JavaScript projects**.
+
+### 🌱 What I'm Learning
+- Advanced **blockchain integrations** for crypto exchanges.
+- AI-powered content creation using **Sora**.
+- Scaling distributed applications using **AWS and Kubernetes**.
+
+### 👯 Open to Collaboration
+- Open-source projects in **NestJS, React, and fintech**.
+- Web3 and **cryptocurrency payment solutions**.
+- AI-based **content automation and video generation**.
+
+### 💬 Ask Me About
+- Full-stack JavaScript development
+- Payment gateway integrations (Stripe, crypto)
+- Scalable backend architectures (NestJS, AWS)
+- AI & automation for digital content creation
+
+### 📫 How to Reach Me
+- **GitHub**: [HarisMajeed](https://github.com/HarisMajeed)
+- **LinkedIn**: [Haris Majeed](https://www.linkedin.com/in/haris-majeed)
+- **Email**: [Your Email Here]
+
+### ⚡ Fun Fact
+I'm exploring AI-powered Learning about OpenAI, Twitter, telegram bots. 🚀
+
+Thanks for stopping by! Feel free to connect or collaborate. 😊
