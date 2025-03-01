@@ -20,16 +20,10 @@ Welcome to my GitHub! I'm a passionate **Full-stack JavaScript developer** with 
 - Web3 and **cryptocurrency payment solutions**.
 - AI-based **content automation**.
 
-### 💬 Ask Me About
-- Full-stack JavaScript development
-- Payment gateway integrations (Stripe, crypto)
-- Scalable backend architectures (NestJS, AWS)
-- AI & automation for digital content creation
-
 ### 📫 How to Reach Me
 - **GitHub**: [HarisMajeed](https://github.com/HarisMajeed)
-- **LinkedIn**: [Haris Majeed](https://www.linkedin.com/in/haris-majeed)
-- **Email**: [Your Email Here]
+- **LinkedIn**: [Haris Majeed](https://www.linkedin.com/in/muhammad-haris-majeed-3178b7107)
+- **Email**: [hm79405@gmail.com]
 
 ### ⚡ Fun Fact
 I'm exploring AI-powered Learning about OpenAI, Twitter, telegram bots. 🚀
